@@ -1,0 +1,33 @@
+&lt;html lang=&quot;pt-br&quot;&gt;&lt;head&gt;
+2)     &lt;meta charset=&quot;UTF-8&quot;&gt;
+3)     &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-
+scale=1.0&quot;&gt;
+4)     &lt;title&gt;Gerador de senha&lt;/title&gt;
+5)     &lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot;&gt;
+6) &lt;/head&gt;
+7)
+8) &lt;body&gt;
+9)     &lt;section class=&quot;conteudo&quot;&gt;
+10)         &lt;div class=&quot;conteudo-titulo&quot;&gt;
+11)             &lt;img src=&quot;unlock.jpeg&quot; alt=&quot;cadeado fechado&quot;&gt;
+12)             &lt;h2 class=&quot;titulo-principal&quot;&gt;Gerador de senhas&lt;/h2&gt;
+13)             &lt;h3 class=&quot;titulo-secundario&quot;&gt;Gere instantaneamente uma
+senha aleatória e segura&lt;/h3&gt;
+14)             &lt;h4 class=&quot;titulo-secundario&quot;&gt;Prof Fernando Baleira
+Leão de Oliveira Queiroz&lt;/h4&gt;
+15)         &lt;/div&gt;
+16)         &lt;div class=&quot;conteudo-senha&quot;&gt;
+17)             &lt;label for=&quot;senha&quot;&gt;Senha&lt;/label&gt;
+18)             &lt;input name=&quot;senha&quot; type=&quot;text&quot; id=&quot;campo-senha&quot;
+readonly=&quot;&quot;&gt;
+19)         &lt;/div&gt;
+20)         &lt;div class=&quot;parametro&quot;&gt;
+21)             &lt;h3 class=&quot;parametro-titulo&quot;&gt;Personalize sua senha&lt;/h3&gt;
+22)             &lt;div class=&quot;parametro-coluna__senha&quot;&gt;
+23)                 &lt;div class=&quot;parametro-senha&quot;&gt;
+24)                     &lt;h4 class=&quot;parametro-senha__titulo&quot;&gt;Número de
+caracteres&lt;/h4&gt;
+25)                     &lt;div class=&quot;parametro-senha-botoes&quot;&gt;
+26)                         &lt;button class=&quot;parametro-senha__botao&quot;&gt;-
+&lt;/button&gt;
+27)                         &lt;p class=&quot;parametro-senha__texto&quot;&gt;12&lt;/p&gt;
